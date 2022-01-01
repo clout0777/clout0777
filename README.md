@@ -7,6 +7,9 @@
 - For all of you Discord folks 
 HELLO
 
+- Here is the bee movie, watchable from my profile:<br>
+![bzzzz bee bzzzzz bee go brr](https://github.com/somerandompiggo/somerandompiggo/raw/main/bee-movie.webp "Why")
+
 <!---
 clout0777/clout0777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
